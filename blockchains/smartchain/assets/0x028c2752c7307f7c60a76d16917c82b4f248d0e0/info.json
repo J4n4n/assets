@@ -1,0 +1,9 @@
+    "name": "Nymph Token",
+    "website": "https://NymphToken.ml",
+    "description": "Nymph Token is Come From Nymph's =)",
+    "explorer": "https://bscscan.com/token/0x028c2752c7307f7c60a76d16917c82b4f248d0e0",
+    "type": "BEP20",
+    "symbol": "NYT",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x028c2752c7307f7c60a76d16917c82b4f248d0e0"
